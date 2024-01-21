@@ -7,6 +7,7 @@
 Welcome to our Next.js 13 E-Commerce Website with an integrated Admin Dashboard! This project showcases the powerful Next.js 13 App Router for seamless client-side routing. Whether you're a beginner or an experienced developer, join us on this exciting journey to build a full-stack web application using cutting-edge technologies.
 
 Store:"https://ecommerce-store-phi-sage.vercel.app/"
+
 Admin dash-board:"https:"https://ecommerce-admin-gilt-ten.vercel.app/sign-in?redirect_url=https%3A%2F%2Fecommerce-admin-gilt-ten.vercel.app%2F"
 
 ## Features
