@@ -8,7 +8,7 @@ Welcome to our Next.js 13 E-Commerce Website with an integrated Admin Dashboard!
 
 Store:"https://ecommerce-store-phi-sage.vercel.app/"
 
-Admin dash-board:"https:"https://ecommerce-admin-gilt-ten.vercel.app/sign-in?redirect_url=https%3A%2F%2Fecommerce-admin-gilt-ten.vercel.app%2F"
+Admin dash-board:"https://ecommerce-admin-gilt-ten.vercel.app/sign-in?redirect_url=https%3A%2F%2Fecommerce-admin-gilt-ten.vercel.app%2F"
 
 ## Features
 
