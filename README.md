@@ -12,10 +12,10 @@ Admin dash-board:"https://ecommerce-admin-gilt-ten.vercel.app/sign-in?redirect_u
 
 ## Features
 
-- **Client-Side Routing:** Leveraged the capabilities of Next.js 13 App Router for efficient client-side routing in your application.
+- **Client-Side Routing:** Leveraged the capabilities of Next.js 13 App Router for efficient client-side routing in the application.
 - **Admin Dashboard:** Built a comprehensive Admin Dashboard for managing products, categories, orders, and more.
 - **Tailwind CSS:** Utilized Tailwind CSS for a utility-first approach to styling, ensuring a responsive and visually appealing design.
-- **Prisma, MongoDB, NextAuth:** Integrated Prisma, MongoDB, and NextAuth for robust data handling and authentication in your application.
+- **Prisma, MongoDB, NextAuth:** Integrated Prisma, MongoDB, and NextAuth for robust data handling and authentication in the application.
 - **Stripe Integration:** Implemented Stripe for secure and seamless checkout functionality.
 - **Dark Mode:** Enhanced user experience with a Dark Mode feature, providing a customizable and visually comfortable interface.
 
