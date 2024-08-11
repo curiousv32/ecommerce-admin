@@ -81,13 +81,6 @@ Discover the features of the Store section, such as:
 - Dashboard page
 - Dark Mode
 
-## Learn More
 
-- [Next.js Documentation](https://nextjs.org/docs) - Learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - Interactive Next.js tutorial.
-
-## Deployment
-
-Deploy your Next.js app effortlessly with [Vercel](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme). Check out the [Next.js deployment documentation](https://nextjs.org/docs/deployment) for detailed instructions.
 
 ---
